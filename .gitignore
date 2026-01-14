@@ -11,3 +11,4 @@ venv/
 .streamlit/
 
 data/post_timeseries.csv
+pico.save
